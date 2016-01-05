@@ -1,0 +1,7 @@
+.right_floated {
+    width: 90px;
+    float: right;
+    position: relative;
+    top: -35px;
+    margin-right: 100px;
+}

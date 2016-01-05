@@ -1,0 +1,453 @@
+.logo_menu{
+    position: relative;
+    overflow: hidden;
+    max-width: 1100px;
+    margin:40px auto 0;
+    font-weight: 600;
+}
+.logo{
+    display: inline-block;
+    float:left;
+    color:#3070a8;
+    font-size: 2.5em;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.menu ul{
+    position: relative;
+    top:10px;
+    list-style-type: none;
+    float: right;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    color:#989898;
+    font-family:  sans-serif;
+    font-weight:bolder;
+}
+.menu li{
+    display: inline-block;
+    padding:0 10px 30px;
+    border-bottom: 5px solid transparent;
+}
+.menu li:hover{
+    color:#3070a8;
+    cursor:pointer;
+    border-bottom: 5px solid #3070a8;
+}
+
+.banner{
+    position:relative;
+    max-width: 1600px;
+    margin: -5px auto 60px;
+    background-image: url("images/banner_bg.jpg");
+    background-size: cover;
+    padding: 120px 0;
+    box-sizing: border-box;
+    z-index: 0;
+    text-align: center;
+    padding-top: 140px;
+}
+.color_filter{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(3,60,105,0.8);
+    z-index: -1;
+}
+.banner p {
+    color: #fff;
+    font-family: Calibri, sans-serif;
+}
+.about_company{
+    font-size: 2.6em;
+    line-height: 1.1;
+    letter-spacing: 2px;
+    max-width: 1000px;
+    margin: 50px auto 20px;
+}
+.banner span{
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.about_content{
+    max-width: 700px;
+    margin: 50px auto 20px;
+    font-size: 1.5em;
+    font-style: italic;
+    line-height:1.5;
+    margin-bottom: 0;
+}
+.banner button{
+    width: 225px;
+    height:60px;
+    background-color: transparent;
+    border:1px solid #fff;
+    margin-top:50px;
+    text-transform: uppercase;
+    color:#fff;
+    font-size: 0.8em;
+    font-weight: 600;
+    font-style: normal;
+}
+.banner button:hover{
+    cursor:pointer;
+    background-color:#EAECEE;
+    color:#3070a8;
+    border-radius: 4px;
+}
+
+.about h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #41525c;
+    font-size: 2em;
+}
+.containers_about{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.container_about{
+    display: inline-block;
+    width: 350px;
+    margin:30px 0 30px 45px;
+}
+.container_about p{
+    text-align: center;
+    font-family: Calibri, sans-serif;
+    font-size: 1.1em;
+    color:#a7a7a7;
+    margin:25px 0;
+}
+.container_about p:first-of-type{
+    text-transform: uppercase;
+    color: #4c83b4;
+    font-size: 2.3em;
+    line-height: 0.8;
+}
+.images_about{
+    width: 150px;
+    margin: 0 auto;
+}
+.content_block_bg{
+    background-image: url("images/text_section_bg.jpg");
+    background-size: cover;
+    max-width: 1600px;
+    margin: 0 auto 80px;
+}
+.content_block{
+    max-width: 1300px;
+    margin: 0 auto;
+    text-align: left;
+    box-sizing: border-box;
+    padding:80px 30% 50px 3%;
+    font-family:   sans-serif;
+}
+.content_block h2{
+    color:#e07a28;
+    text-transform: uppercase;
+    font-size: 1.6em;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+.content_block p{
+    color:#fff;
+    font-style: italic;
+    font-size: 1.3em;
+    margin-bottom: 50px;
+}
+.content_block li {
+    color: #939393;
+    line-height: 1.8em;
+    font-size: 1em;
+    letter-spacing: 1px;
+    padding: 10px 0;
+}
+.content_block li:hover{
+    color: #2f6b9f;
+}
+
+.headline{
+    text-transform:uppercase;
+    text-align: center;
+    font-family: Actor,  sans-serif;
+    font-weight: 600;
+    font-size:170%;
+    color:#2F4F4F;
+    padding-bottom: 40px;
+}
+.offers{
+    width: 900px;
+    margin:20px auto;
+}
+.ads{
+    display: inline-block;
+    width:295px;
+    border-radius:7px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-color:#fff;
+}
+div.best_value{
+    border:4px solid #EE8129;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    position: relative;
+    z-index: 2;
+}
+div.standart,div.ultimate{
+    border:1px solid #EAECEE;
+    position: relative;
+    z-index: 1;
+}
+
+div.standart{
+    left:10px;
+}
+div.ultimate {
+    right: 10px;
+}
+.ads header{
+    text-transform:uppercase;
+    text-align:center;
+    color:#fff;
+    font-weight:bold;
+    font-size:150%;
+}
+header.standart{
+    padding:17px 0;
+    background-color:#37C2D3;
+    border-top-left-radius:7px;
+}
+header.best_value{
+    padding:20px 0;
+    background-color:#EE8129;
+}
+header.ultimate{
+    padding:17px 0;
+    background-color:#1CB79A;
+    border-top-right-radius:7px;
+}
+.offer{
+    text-transform:uppercase;
+    text-align:center;
+    font-size:140%;
+    color:#2F4F4F;
+    font-stretch: extra-expanded;
+    font-weight:bold;
+}
+.price{
+    text-align:center;
+    font-size:400%;
+    font-weight:bold;
+    margin:-8px 0;
+    color:#2F4F4F;
+}
+.price:before{
+    content:'$';
+    vertical-align:top;
+    font-size:0.3em;
+    font-weight:400;
+}
+.period{
+    vertical-align:sub;
+    font-size:0.3em;
+    font-weight:normal;
+}
+.ads li:nth-child(2n+1){
+    background-color:#EDF5FD;
+}
+.ads li:nth-child(2n){
+    background-color:#F5F5F6;
+}
+.ads ul{
+    margin:30px 0 0 -25px;
+}
+.ads li{
+    width:200px;
+    padding: 7px 0 7px 60px;
+    color: #888C94;
+    font-size: 90%;
+    list-style:none;
+    background-image: url(images/marker.png);
+    background-repeat: no-repeat;
+    background-position: 30px, 4px;
+    margin-bottom: 1px;
+    letter-spacing: 1px;
+}
+.ads button{
+    width:252px;
+    height:45px;
+    border-radius:7px;
+    text-transform:uppercase;
+    color:#fff;
+    font-weight:bold;
+    font-size:90%;
+    box-sizing: border-box;
+
+}
+.ads button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0,0,0,1);
+}
+
+button.standart,
+button.ultimate{
+    background-color:#3371A6 ;
+    margin: 15px 17px 20px;
+    border:1px solid #4682B4;
+    border-bottom: 3px solid #16436A;
+}
+button.best_value{
+    background-color:#EE8129;
+    margin: 15px 17px 30px;
+    border:1px solid #EE8129;
+    border-bottom: 3px solid #B3560B;
+}
+
+.testimonials_bg{
+    position:relative;
+    max-width:1600px;
+    margin:0 auto;
+    background-image: url(images/testimonials_bg.png);
+    background-size: cover;
+    z-index: 0;
+}
+.testimonials_filter {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(12,18,23, 0.85);
+    z-index: -1;
+}
+.what_client_says{
+    text-align: center;
+    text-transform: uppercase;
+    color:#3170A8;
+    font-family: Tahoma, sans-serif;
+    font-size: 300%;
+    font-weight: 600;
+    padding:50px 0 0;
+}
+.first_word{
+    color:#EE8129;
+    font-weight: 400;
+}
+.testimonials{
+    max-width: 1300px;
+    margin:0 auto;
+    padding-left: 2%;
+}
+.testimonials_photo_box{
+    display:inline-block;
+}
+.testimonials_box{
+    display:inline-block;
+    position:relative;
+    background-color:#F5F5F6;
+    width:400px;
+    padding:17px;
+    box-sizing: border-box;
+    margin:0 40px 100px 25px;
+    vertical-align: top;
+}
+.testimonials_box::before{
+    position: absolute;
+    top:40px;
+    left:-30px;
+    border:15px solid transparent;
+    border-right: 20px solid #F5F5F6;
+    content: "";
+}
+.customer_name{
+    float:left;
+}
+.customer_name:before{
+    content: "-";
+}
+.customer_category{
+    float:right;
+}
+.testimonial_head{
+    overflow: hidden;
+    border-bottom: 1px dotted;
+    color: #3170A8;
+    padding-bottom: 7px;
+    font-family:  sans-serif;
+    font-style: italic;
+    font-size: 90%;
+}
+img.photo1, img.photo2{
+    width: 120px;
+    height: 120px;
+    vertical-align: top;
+}
+.testimonial_content{
+    padding-top: 12px;
+    font-family:  sans-serif;
+    font-size: 90%;
+    color:#666666;
+}
+.contacts_map{
+    position: relative;
+    max-width: 1600px;
+    height: 350px;
+    margin: 0 auto;
+}
+.contacts{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 50%;
+    height: 300px;
+}
+.adress{
+    max-width:350px;
+    margin: 55px auto;
+}
+.contacts ul{
+    list-style-type: none;
+    font:  0.9em 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    color:#666;
+}
+.contacts li{
+    position: relative;
+    padding:7px 20px;
+}
+.contacts li img{
+    position: absolute;
+    left:-20px;
+}
+.social_link a{
+    padding:10px 0 0 20px;
+    cursor: pointer;
+}
+.map{
+    position: absolute;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background-image: url("images/map.png");
+    width:50%;
+}
+footer{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding:20px;
+    background: #3070a8;
+    text-align: center;
+    color:#fff;
+    font:  0.9em 'Trebuchet MS', sans-serif;
+    line-height: 2;
+}
+.bold{
+    font-weight: 600;
+}
+.black{
+    color:#000;
+    font-weight: 600;
+}
