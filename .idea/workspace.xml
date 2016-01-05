@@ -2,7 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52be5869-06ef-4007-8fd3-50d52048c718" name="Default" comment="done">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson12/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson12/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson12/task3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson9/codewars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="3c713861-59ca-4bc7-9c19-1aa61f15680b" name="Rejected commit: Default" comment="done" />
     <ignored path="AnnLister.github.io.iws" />
@@ -48,57 +99,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/task5.js" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson3/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/task4.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/task6.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/codewars2.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/codewars3.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/codewars5.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/codewars1.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson3/codewars4.js" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task2.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task2.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task3.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task3.html" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson5/task1.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson4/task1.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson4/task2.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson4/task3.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson4/task4.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson5/task2.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson5/task3.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson2/task1.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson2/task2.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson2/task3.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson1/task1.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson1/task2.js" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson1/task3.js" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson4/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson5/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson5/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson5/task2.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson5/task2.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson6/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson6/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson6/task2.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson6/task2.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson7/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson7/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson7/task2.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson7/task2.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson8/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/lesson8/task1.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/project2/index.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/project2/style.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/project1/index.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/project1/index.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/exam/styles.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/homework/exam/index.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task5.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task6.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/task7.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars5.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson7/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson8/task4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson9/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson9/codewars.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task5.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task6.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task7.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/task8.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/fibbonacicodewars.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codwars8.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars5.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codwars6.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codwars7.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars7.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars8.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson11/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson11/task2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson11/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task2.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task3.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task1.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task4.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task5.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task6.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task7.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task8.js" />
+        <option value="$PROJECT_DIR$/GoIT/JavaScript/lesson13/task9.js" />
       </list>
     </option>
   </component>
@@ -109,7 +160,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1377" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -193,6 +244,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GoIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnnLister.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AnnLister.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,26 +396,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1378" height="728" extended-state="1" />
+    <frame x="-8" y="0" width="1377" height="728" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27537313" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2755788" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5030166" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32436976" sideWeight="0.4969834" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24925373" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.239819" sideWeight="0.51005024" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -390,10 +459,411 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/task7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50880283">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23943663">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8380282">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson6/codewars2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35915494">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson7/codewars3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson8/task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson8/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94014084">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson8/task4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59859157">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson8/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson9/task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson9/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson9/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson9/codewars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59859157">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/task7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20987654">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35978836">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41975307">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29982364">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38977072">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson10/codewars7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26984128">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson12/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson12/task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson12/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8201058">
+          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6296296">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92945325">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8201058">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70017636">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7389771">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64021164">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/JavaScript/lesson13/task9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9400353">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
