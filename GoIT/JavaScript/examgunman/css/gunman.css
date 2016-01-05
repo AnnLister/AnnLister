@@ -1,0 +1,189 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 900px;
+}
+
+.header {
+    height: 96px;
+    width: 800px;
+
+    background-color: black;
+    margin: 60px auto 0;
+
+    font-family: 'Oswald',sans-serif;
+}
+
+.speed__counters {
+    padding: 0;
+    margin: -5px;
+
+    text-align: center;
+
+    font-size: 40px;
+    color: rgb(128,128,128);
+}
+
+.speed__counters:nth-child(2) {
+    line-height: 24px;
+}
+
+.speed__counters_span {
+    font-size: 36px;
+    color: white;
+}
+
+.footer {
+    width: 800px;
+    height: 96px;
+
+    background-color: black;
+    margin: 0 auto;
+}
+
+.score {
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Oswald', serif;
+    font-size: 24px;
+
+    text-transform: uppercase;
+    color: white;
+    padding-left: 10px;
+}
+
+.score__span {
+    color: green;
+    font-size: 24px;
+}
+
+.score:nth-of-type(1) {
+    padding-top: 10px;
+}
+
+.game {
+    position: relative;
+
+    width: 800px;
+    height: 400px;
+
+    margin: 0 auto;
+
+    background: url('../img/bg.png') no-repeat;
+    background-size: 100% 100%;
+
+    cursor: crosshair;
+}
+
+.gunman {
+    position: absolute;
+    top: 130px;
+    left: 0;
+
+    width: 70px;
+    height: 150px;
+
+    background: url('../img/gunman_sprite.png') no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+
+    cursor: crosshair;
+}
+
+.fire {
+    position: absolute;
+    margin: auto;
+
+    top: -70px;
+    left: 10px;
+    right: 0;
+    bottom: 0;
+
+    width: 200px;
+    height: 50px;
+
+    font-size: 50px;
+    color: yellow;
+
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.playBtn {
+    display: inline-block;
+    position: absolute;
+    margin: auto;
+    opacity:0.5;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    width: 200px;
+    height: 50px;
+
+    background-color: #fff8cf;
+    border-radius: 10px;
+
+    cursor: pointer;
+    z-index: 2;
+
+    border: 2px solid #12125e;
+}
+
+.playBtn__text {
+    padding-top: 10px;
+    margin: 0 auto;
+
+    line-height: 20px;
+
+    vertical-align: middle;
+    text-align: center;
+
+    font-family: 'GameFont';'sans-serif';
+    text-transform: capitalize;
+    font-size: 40px;
+
+    color: #131b80;
+
+}
+
+.paranja {
+    position: absolute;
+    display: block;
+
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    background-color: darkred;
+    opacity: 0.3;
+
+    z-index: 1;
+}
+
+.result__msg {
+    position: absolute;
+display: block;
+
+top: 30px;
+right: 0;
+bottom: 0;
+left: 0;
+
+line-height: 36px;
+
+vertical-align: middle;
+text-align: center;
+
+font-family: 'Arvo', serif;
+text-transform: uppercase;
+font-size: 50px;
+
+color: darkred;
+z-index: 2;
+}
