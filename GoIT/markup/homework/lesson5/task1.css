@@ -1,0 +1,58 @@
+.line{
+    background:#00A0FF;
+    position:relative;
+    margin: 0;
+    padding: 0;
+}
+.menu li:hover .second_menu{
+    visibility:visible;
+    background:#eee;
+}
+.menu{
+    width:900px;
+    margin:0 auto;
+}
+.menu li {
+    display:inline-block;
+}
+
+.menu>li>a{
+    display:inline-block;
+    text-decoration:none;
+    color:white;
+    font-family:Impact, sans-serif;
+    line-height:2.3;
+    font-size:1.2em;
+    padding:0 9px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.menu li:hover{
+    background:#eee;
+}
+.menu li:hover a{
+    color:#A8A4A1;
+}
+.second_menu li {
+    display:inline-block;
+}
+.second_menu{
+    width:100%;
+    position:absolute;
+    top:100%;
+    left:0;
+    right:0;
+    text-align: center;
+    color:#A8A4A1;
+    visibility: hidden;
+}
+.second_menu>li>a{
+    text-decoration:none;
+    font-family:sans-serif;
+    color:#A8A4A1;
+    line-height:2.7;
+    font-size:0.9em;
+    padding:0 5px;
+    cursor: pointer;
+}
