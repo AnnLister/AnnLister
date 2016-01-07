@@ -69,9 +69,6 @@ $(function(){
         __self.steps();
         __self.fire();
     });
-    function getRandomArbitrary(max) {
-        return Math.random() * max;
-    }
     this.steps = function () {
         setTimeout(function(){
             game.append(gunMan);
